@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zq_hero的博客</title>
+    <link>https://zqHero.github.io/</link>
+    <description>Recent content on zq_hero的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://zqHero.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>https://zqHero.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://zqHero.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket: Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zqHero.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zqHero.github.io/home/about/</guid>
+      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://zqHero.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zqHero.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://zqHero.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zqHero.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://zqHero.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zqHero.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://zqHero.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zqHero.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://zqHero.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zqHero.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://zqHero.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zqHero.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://zqHero.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://zqHero.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://zqHero.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zqHero.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://zqHero.github.io/post/hello-world/</link>
+      <pubDate>Sun, 01 Apr 2018 21:03:08 +0800</pubDate>
+      
+      <guid>https://zqHero.github.io/post/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>https://zqHero.github.io/post/about/about/</link>
+      <pubDate>Sun, 01 Apr 2018 16:58:40 +0800</pubDate>
+      
+      <guid>https://zqHero.github.io/post/about/about/</guid>
+      <description>我的介绍我的介绍我的介绍我的介绍的介绍我的介绍我的介绍我的介绍我的 介绍的介绍我的介绍我的介绍我的介绍我的介绍的介绍我的介绍我的介绍我的 介绍我的介绍的介 绍我的介绍我的介绍我的介绍我的介绍的介绍我的介绍我的介绍我的介绍我的介绍 的介绍我的介 绍我的介绍我的介绍我的介绍的介绍我的介绍我的介绍我的介绍我的介绍我的介绍</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://zqHero.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://zqHero.github.io/talk/example-talk/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://zqHero.github.io/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zqHero.github.io/project/deep-learning/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://zqHero.github.io/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zqHero.github.io/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>https://zqHero.github.io/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zqHero.github.io/post/getting-started/</guid>
+      <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
+
+Key features:
+ Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.</description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>https://zqHero.github.io/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zqHero.github.io/publication/person-re-identification/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Android开发浅谈</title>
+      <link>https://zqHero.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Thu, 08 Jan 2015 08:36:54 -0700</pubDate>
+      
+      <guid>https://zqHero.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <description>这是内容是内容 这是内容是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容</description>
+    </item>
+    
+    <item>
+      <title>扫码功能的实现</title>
+      <link>https://zqHero.github.io/post/%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Thu, 08 Jan 2015 08:36:54 -0700</pubDate>
+      
+      <guid>https://zqHero.github.io/post/%E6%96%87%E7%AB%A0/</guid>
+      <description>Hello Hugo 这是内容是内容 这是内容是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容 这是内容</description>
+    </item>
+    
+    <item>
+      <title>扫码实现三</title>
+      <link>https://zqHero.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0---%E5%89%AF%E6%9C%AC-3/</link>
+      <pubDate>Thu, 08 Jan 2015 08:36:54 -0700</pubDate>
+      
+      <guid>https://zqHero.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0---%E5%89%AF%E6%9C%AC-3/</guid>
+      <description>Hel扫码实现三扫码实现三扫码实现三扫码实现三扫码实现三扫码实现三扫码实现三扫码实现 扫码实现三扫码实现三扫码实现三扫码实现三扫码实现三扫码实现三扫码实现三扫码实现三三扫码实现三</description>
+    </item>
+    
+    <item>
+      <title>扫码实现五</title>
+      <link>https://zqHero.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0---%E5%89%AF%E6%9C%AC-5/</link>
+      <pubDate>Thu, 08 Jan 2015 08:36:54 -0700</pubDate>
+      
+      <guid>https://zqHero.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0---%E5%89%AF%E6%9C%AC-5/</guid>
+      <description>He扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五llo Hugo 扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五 1. aaa扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五 1. bbb扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五 1. ccc扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五扫码实现五</description>
+    </item>
+    
+    <item>
+      <title>扫码的实现四</title>
+      <link>https://zqHero.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0---%E5%89%AF%E6%9C%AC-4/</link>
+      <pubDate>Thu, 08 Jan 2015 08:36:54 -0700</pubDate>
+      
+      <guid>https://zqHero.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0---%E5%89%AF%E6%9C%AC-4/</guid>
+      <description>扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四
+Hello Hugo扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四 扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四 1. aaa扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四 1. bbb扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四 1. ccc扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四扫码的实现四</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>https://zqHero.github.io/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://zqHero.github.io/publication/clothing-search/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
