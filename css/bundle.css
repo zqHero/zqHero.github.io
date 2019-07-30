@@ -529,13 +529,13 @@ a:focus, a:hover {
 }
 
 .site-menu .menu-item {
-    padding: 0.7rem 0
+    padding: 0.5rem 0
 }
 
 .site-menu .menu-item a {
     display: inline-block;
-    height: 0.7rem;
-    line-height: 0.7
+    height: 0.5rem;
+    line-height: 0.5
 }
 
 @media screen and (max-width: 800px) {
