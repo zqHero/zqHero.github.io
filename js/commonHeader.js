@@ -21,7 +21,7 @@ var socialItems = [
 var initMenu = function (activeIndex) {
     var str = '<img class="avatar" src="https://zqHero.github.io/img/avatar.jpg" alt="Avatar">';
         str += '<h1 class="title">zq_hero的博客</h1>';
-        str += '<p class="subtitle">一名程序员的人生思考和感悟</p>';
+        str += '<p class="subtitle">一名程序员的自我奋斗</p>';
         str += '<button class="menu-toggle" type="button"><span class="icon icon-menu"></span></button>';
         str += '<nav class="site-menu collapsed"><ul class="menu-list">';
         for(var i = 0;i<parMenuItems.length;i++){
